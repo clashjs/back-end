@@ -1,8 +1,10 @@
-# Back-end Frameworks
+# Back End Frameworks
 
-1. [Express](https://expressjs.com/) :fire:
-2. [Next.js](https://nextjs.org/) :fire:
-3. [Koa](https://koajs.com/)
-4. [Meteor](https://www.meteor.com/)
-5. [Sails](https://sailsjs.com/)
-6. [FeathersJS](https://feathersjs.com/)
+- [Express](https://expressjs.com/)
+- [Next.js](https://nextjs.org/)
+- [Koa](https://koajs.com/)
+- [Meteor](https://www.meteor.com/)
+- [Sails](https://sailsjs.com/)
+- [Feathers](https://feathersjs.com/)
+- [Nuxt](https://nuxtjs.org/)
+- [Gatsby](https://www.gatsbyjs.org/)
